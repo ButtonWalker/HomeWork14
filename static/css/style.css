@@ -65,12 +65,24 @@ body {
 
 .filters .panel-body {
   padding: 0;
+  background-color: dimgrey;
 }
 
 .btn-default {  
   background-color: dimgrey;
   border-color: red;
 }
+
+.button { 
+  background-color: dimgrey;
+  border-color: red; 
+  position: relative;
+  Right: 15px;    
+}
+
+.button:hover {
+  background-color: #4e5d6c;
+  }
 
 .btn-default:hover {
 background-color: red;

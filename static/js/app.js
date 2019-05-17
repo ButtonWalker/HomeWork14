@@ -33,3 +33,6 @@ function buttonClick() {
 d3.selectAll("#filter-btn").on("click", buttonClick);
 table(tableData);
 
+function resetForm() {
+    document.getElementById("form-group").reset();
+}
