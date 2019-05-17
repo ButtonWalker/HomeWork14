@@ -10,5 +10,5 @@ That's why we are hiring you. We need you to write code that will create a table
 
 You can handle this... right? The planet Earth needs to know what we have found!
 
-### Unscraped Data
-[![INSERT YOUR GRAPHIC HERE]("https://github.com/ButtonWalker/HomeWork14.github.io/blob/master/static/images/readImage.png")]()
+### Site Image
+[![INSERT YOUR GRAPHIC HERE](https://github.com/ButtonWalker/HomeWork14.github.io/blob/master/static/images/readImage.png)]()
